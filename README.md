@@ -1,5 +1,9 @@
 # Tacos Los Troncos Website
 
+<p align="center">
+  <img src="public/readme_screenshot.png" alt="Tacos Los Troncos Website Screenshot" />
+</p>
+
 A modern, responsive website for Tacos Los Troncos, an authentic Mexican food truck serving delicious tacos, burritos, and more in Temple, TX.
 
 ## About
