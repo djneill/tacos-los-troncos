@@ -39,7 +39,7 @@ function Navbar() {
             </button>
             <a
               href="tel:+12544934909"
-              className="flex items-center gap-1 md:gap-2 px-3 md:px-4 py-2 text-sm md:text-base font-semibold text-white bg-green-600 hover:bg-green-700 rounded-lg transition-colors"
+              className="flex items-center gap-1 md:gap-2 px-3 md:px-4 py-2 text-sm md:text-base font-semibold text-white bg-green-700 hover:bg-green-800 rounded-lg transition-colors"
             >
               <Phone size={16} />
               <span className="hidden md:inline">Call</span>

@@ -35,10 +35,10 @@ function Hours() {
                       : 'bg-orange-50 border-l-4 border-orange-500'
                   }`}
                 >
-                  <span className={`text-lg font-bold ${item.closed ? 'text-gray-400' : 'text-gray-900'}`}>
+                  <span className={`text-lg font-bold ${item.closed ? 'text-gray-600' : 'text-gray-900'}`}>
                     {item.day}
                   </span>
-                  <span className={`text-lg font-semibold text-right ${item.closed ? 'text-red-500' : 'text-orange-700'}`}>
+                  <span className={`text-lg font-semibold text-right ${item.closed ? 'text-red-700' : 'text-orange-700'}`}>
                     {item.hours}
                   </span>
                 </div>

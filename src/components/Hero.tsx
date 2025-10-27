@@ -23,7 +23,7 @@ function Hero() {
         </p>
         <button
           onClick={scrollToMenu}
-          className="bg-orange-500 hover:bg-orange-600 text-white font-bold px-10 py-4 rounded-lg text-lg transition-all duration-300 shadow-xl hover:shadow-2xl hover:scale-105"
+          className="bg-orange-600 hover:bg-orange-700 text-white font-bold px-10 py-4 rounded-lg text-lg transition-all duration-300 shadow-xl hover:shadow-2xl hover:scale-105"
         >
           View The Menu
         </button>
