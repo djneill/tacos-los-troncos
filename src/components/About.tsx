@@ -35,7 +35,7 @@ function About() {
                 className="w-full h-full object-cover"
               />
             </div>
-            <div className="absolute -bottom-6 -right-6 bg-orange-600 text-white p-8 rounded-xl shadow-xl hidden md:block">
+            <div className="absolute -bottom-6 -right-6 bg-orange-700 text-white p-8 rounded-xl shadow-xl hidden md:block">
               <p className="text-4xl font-black mb-1">100%</p>
               <p className="text-sm font-bold">Authentic</p>
             </div>
