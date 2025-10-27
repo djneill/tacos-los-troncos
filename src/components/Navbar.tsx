@@ -27,13 +27,13 @@ function Navbar() {
           <div className="flex items-center gap-1 md:gap-4">
             <button
               onClick={() => scrollToSection("menu")}
-              className="px-4 py-2 text-sm md:text-base font-semibold text-gray-700 hover:text-orange-600 transition-colors hidden sm:block"
+              className="px-4 py-2 text-sm md:text-base font-semibold text-gray-700 hover:text-orange-700 transition-colors hidden sm:block"
             >
               Menu
             </button>
             <button
               onClick={() => scrollToSection("hours")}
-              className="px-4 py-2 text-sm md:text-base font-semibold text-gray-700 hover:text-orange-600 transition-colors hidden sm:block"
+              className="px-4 py-2 text-sm md:text-base font-semibold text-gray-700 hover:text-orange-700 transition-colors hidden sm:block"
             >
               Hours
             </button>

@@ -38,7 +38,7 @@ function Hours() {
                   <span className={`text-lg font-bold ${item.closed ? 'text-gray-400' : 'text-gray-900'}`}>
                     {item.day}
                   </span>
-                  <span className={`text-lg font-semibold text-right ${item.closed ? 'text-red-500' : 'text-orange-600'}`}>
+                  <span className={`text-lg font-semibold text-right ${item.closed ? 'text-red-500' : 'text-orange-700'}`}>
                     {item.hours}
                   </span>
                 </div>

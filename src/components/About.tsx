@@ -20,7 +20,7 @@ function About() {
                 Today, we're proud to serve our creations on streets, using only
                 fresh, locally-sourced ingredients.
               </p>
-              <p className="font-semibold text-orange-600">
+              <p className="font-semibold text-orange-700">
                 Every taco, every burrito, every bite is made with passion and
                 authenticity.
               </p>
@@ -55,7 +55,7 @@ function About() {
             href="https://share.google/J2Y9ggZeD4F2WhCi3"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block bg-white text-orange-600 font-bold px-8 py-3 rounded-lg hover:scale-105 transition-transform duration-300 shadow-lg"
+            className="inline-block bg-white text-orange-700 font-bold px-8 py-3 rounded-lg hover:scale-105 transition-transform duration-300 shadow-lg"
           >
             Find Our Location Today!
           </a>

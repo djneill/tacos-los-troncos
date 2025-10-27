@@ -212,7 +212,7 @@ function Menu() {
                     <h4 className="text-xl font-bold text-gray-900">
                       {item.name}
                     </h4>
-                    <span className="text-xl font-bold text-orange-600">
+                    <span className="text-xl font-bold text-orange-700">
                       {item.price}
                     </span>
                   </div>
@@ -247,7 +247,7 @@ function Menu() {
                     <h4 className="text-2xl font-bold text-gray-900">
                       {item.name}
                     </h4>
-                    <span className="text-2xl font-bold text-orange-600">
+                    <span className="text-2xl font-bold text-orange-700">
                       {item.price}
                     </span>
                   </div>
@@ -280,7 +280,7 @@ function Menu() {
                     <h4 className="text-xl font-bold text-gray-900">
                       {item.name}
                     </h4>
-                    <span className="text-xl font-bold text-orange-600 ml-4">
+                    <span className="text-xl font-bold text-orange-700 ml-4">
                       {item.price}
                     </span>
                   </div>
